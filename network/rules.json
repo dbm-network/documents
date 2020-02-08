@@ -14,7 +14,7 @@
     "See if your question or idea has already been asked, produced or answered by using the search function available via Discord.",
     "Ghost mentioning a user is treated more severe than a normal ping.",
     "Mentioning Helpers should be done if you have waited over 30 minutes for an answer.",
-    "**All support is voluntary. Do not hold any expectations and respect those helping."
+    "**All support is voluntary. Do not hold any expectations and respect those helping.**"
   ],
   "Content": [
     "These rules apply not only to server messages, but also custom statuses, DMs using the server as an intermediary, etc.",
@@ -23,7 +23,8 @@
     "Shitposting, Spam, Message/Emoji Chains are forbidden.",
     "Claiming ownership of or re-posting of another user's creation (Raw Data, Themes, etc.) without permission is a bannable offense.",
     "Xenophobia, Racism, Prejudice, Hatespeech, or other form of harassment of a user or group of users is bannable.",
-    "You will be warned for sending DMs en masse to users."
+    "You will be warned for sending DMs en masse to users.",
+    "Anything illegal, or that breaks Discord's [Guidelines](https://discordapp.com/guidelines) or [TOS](https://discordapp.com/terms) is bannable."
   ],
   "Infractions": [
     "Warnings, Mutes, Bans, etc. are shared between all Network Servers and potentially services.",
