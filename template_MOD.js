@@ -70,12 +70,6 @@ module.exports = {
 
   html: function(isEvent, data) {
     return `
-      <div>
-        <p>
-          <u>Mod Info:</u><br>
-          Created by YOUR NAME
-        </p>
-      </div><br>
       <div style="width: 90%;">
         Variable or String:<br>
         <input id="VariableTextBox" class="round" type="text">
